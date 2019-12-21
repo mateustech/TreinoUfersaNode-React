@@ -49,4 +49,5 @@ Consumindo API construida com Axios e a criando Interface com a biblioteca React
 
 # DETALHAR NOTÍCIA
 <img src="./frontend/src/assents/pg3.png"/>
+
 # Bons Estudos!
