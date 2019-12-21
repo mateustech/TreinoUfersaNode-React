@@ -1,0 +1,64 @@
+.header {
+  overflow: hidden;
+  background-color: #7159c1;
+  padding: 20px 10px;
+}
+.header a {
+  float: left;
+  color: rgba(255, 255, 255, 0.671);
+  text-align: center;
+  padding: 12px;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: bolder;
+  line-height: 25px;
+  margin-left: 10px;
+}
+.header a.logo {
+  font-size: 25px;
+  display: flex;
+  flex-direction: row;
+  color: #fff;
+}
+.header a.logo p {
+  font-size: 16px;
+  margin-left: 15px;
+}
+.header a.logo:hover {
+  color: rgba(238, 238, 238, 0.733);
+  font-size: 25px;
+}
+
+/* Change the background color on mouse-over */
+.header a:hover {
+  color: #fff;
+}
+
+/* Style the active/current link*/
+.header a.active {
+  border-bottom: 2px solid #fff;
+  color: #fff;
+}
+
+/* Float the link section to the right */
+.header-right {
+  float: right;
+  padding: 10px;
+}
+.header-right svg {
+  color: #fff;
+  font-size: 30px;
+  margin-left: 25px;
+}
+
+/* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */
+@media screen and (max-width: 500px) {
+  .header a {
+    float: none;
+    display: block;
+    text-align: left;
+  }
+  .header-right {
+    float: none;
+  }
+}

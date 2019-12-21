@@ -1,0 +1,65 @@
+.container-main {
+  max-width: 700px;
+  margin: 20px auto 0;
+  padding: 0 20px;
+}
+.container-main article {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 20px;
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+}
+.container-main article .text {
+  margin-left: 25px;
+  max-width: 330px;
+  height: 120px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.container-main article .row {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: row;
+}
+.container-main article .row-icons {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+}
+.container-main article .column {
+  display: flex;
+  flex-direction: column;
+}
+.container-main article .column a {
+  margin-top: 30px;
+  margin-left: 25px;
+}
+.container-main article img {
+  max-width: 300px;
+  max-height: 300px;
+  border-radius: 4px;
+}
+.container-main article img:hover {
+  -moz-transform: scale(1.03);
+  -webkit-transform: scale(1.03);
+  transform: scale(1.03);
+}
+.container-main article label {
+  font-weight: bolder;
+  font-size: 13px;
+  color: red;
+  margin-bottom: 4px;
+}
+.container-main article p {
+  font-size: 16px;
+  color: #999;
+  margin-top: 5px;
+  line-height: 24px;
+}
+.container-main article svg {
+  color: #7159c1;
+  font-size: 20px;
+}
