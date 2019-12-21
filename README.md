@@ -40,6 +40,13 @@ Consumindo API construida com Axios e a criando Interface com a biblioteca React
 5. Abra o terminal na pasta Frontend e rode "yarn start"
 
 ## A aplicação vai ficar assim !
+
+# HOME
 <img src="./frontend/src/assents/pg1.png"/>
 
+# CADASTRAR NOTÍCIAS
+<img src="./frontend/src/assents/pg2.png"/>
+
+# DETALHAR NOTÍCIA
+<img src="./frontend/src/assents/pg3.png"/>
 # Bons Estudos!
