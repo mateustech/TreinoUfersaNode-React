@@ -28,7 +28,7 @@ Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/mateus-fernandes-cos
 ## FrontEnd
 <img align="leth" src="http://blog.redspark.io/wp-content/uploads/2015/09/react-578x270.png" width="300px;" />
 
-Consumindo com "axios" a API construida no backend, e a criando a Interface com a bibliotéca React!
+Consumindo com "axios" a API construida no backend, e criando a Interface com a bibliotéca React!
 
 
 ## Como usar esta aplicação?
