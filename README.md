@@ -15,7 +15,7 @@ Este projeto faz parte do meu portfólio pessoal, portanto, ficarei feliz se voc
 
 Email-me: mateustech686@gmail.com
 
-Conecte-se comigo em [LinkedIn]([https://www.linkedin.com/in/mateus-fernandes-costa-0955b1196/](https://www.linkedin.com/in/mateus-fernandes-costa-0955b1196/)).
+Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/mateus-fernandes-costa-0955b1196/).
 
 ## Backend 
 <img align="leth" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="200px;" />
