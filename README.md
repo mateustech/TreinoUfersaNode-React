@@ -35,7 +35,7 @@ Consumindo com "axios" a API construida no backend, e criando a Interface com a 
 
 1. Instale o NodeJs, NPM e ReactJs. [Configurando Ambiente](https://www.devmedia.com.br/como-instalar-o-node-js-npm-e-o-react-no-windows/40329)
 2. Clone o Repositorio. (git clone "url") [Manual - Git](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
-3. Nas pastas "backend_treino e frontend" rode o campando "npm install" para instalar as depedencias.
+3. Nas pastas "backend_treino e frontend" rode o comando "npm install" para instalar as depedencias.
 4. No arquivo "TreinoUfersaNodeReact/backend_treino/src/Config/geral.js" troque a url de conexão para a sua url do mongooDB.
 5. Abra o terminal na pasta Backend e rode "yarn dev"
 6. Abra o terminal na pasta Frontend e rode "yarn start"
