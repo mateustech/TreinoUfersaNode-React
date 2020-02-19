@@ -40,7 +40,7 @@ Consumindo com "axios" a API construida no backend, e criando a Interface com a 
 5. Abra o terminal na pasta Backend e rode "yarn dev"
 6. Abra o terminal na pasta Frontend e rode "yarn start"
 
-## A aplicação vai ficar assim !
+## A Aplicação Vai Ficar Fssim !
 
 # HOME
 <img src="./frontend/src/assents/pg1.png"/>
