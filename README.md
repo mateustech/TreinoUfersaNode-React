@@ -1,5 +1,5 @@
 
-# Treinamento - NodeJS e ReactJS
+# Treinamento - NodeJS e ReactJS ministrado na UFERSA
 <img align="right" src="https://i.imgsafe.org/2c/2c024270b3.gif" width="150px;" />
 
 **PS:**  Treinamento Ministrado Na Universidade Federal Rural do Semi Árido em 6 Encontros no Intuito de Apresentar o NodeJs e ReactJs Como Uma Ótima Opção Para o Desenvolvimento Web. (Frontend - Backend)
