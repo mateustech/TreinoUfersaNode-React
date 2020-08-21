@@ -18,15 +18,15 @@ Email-me: mateustech686@gmail.com
 Conecte-se comigo em [LinkedIn](https://www.linkedin.com/in/mateus-fernandes-costa-0955b1196/).
 
 ## Backend 
-<img align="leth" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="200px;" />
-<img align="leth" src="https://jet.hazelcast.org/wp-content/uploads/2019/09/logo-mongodb.png" width="200px;" />
+<img align="leth" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png" width="120px;" />
+<img align="leth" src="https://siga0984.files.wordpress.com/2019/11/mongodb-logo.png" width="120px;" />
 
 <br>
  NodeJS - ExpressJS - Axios - Cors - Mongoose - Nodemon 
 
 
 ## FrontEnd
-<img align="leth" src="http://blog.redspark.io/wp-content/uploads/2015/09/react-578x270.png" width="300px;" />
+<img align="leth" src="https://www.metaltoad.com/sites/default/files/styles/large_personal_photo_870x500_/public/2020-05/react-js-blog-header.png?itok=VbfDeSgJ" width="200px;" />
 
 Consumindo com "axios" a API construida no backend, e criando a Interface com a bibliotéca React!
 
